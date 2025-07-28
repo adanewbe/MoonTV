@@ -6,6 +6,16 @@
       "name": "饭太硬",
       "detail": "http://www.饭太硬.net"
     },    
+    "fty": {
+      "api": "https://tv.xn--yhqu5zs87a.top",
+      "name": "菜妮丝",
+      "detail": "https://tv.xn--yhqu5zs87a.top"
+    },    
+    "fty": {
+      "api": "http://肥猫.com",
+      "name": "肥猫",
+      "detail": "http://肥猫.com"
+    },    
     "dyttzy": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "name": "电影天堂资源",
