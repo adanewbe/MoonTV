@@ -1,6 +1,11 @@
 {
   "cache_time": 7200,
   "api_site": {
+    "fty": {
+      "api": "http://www.饭太硬.net/tv",
+      "name": "饭太硬",
+      "detail": "http://www.饭太硬.net"
+    },    
     "dyttzy": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "name": "电影天堂资源",
